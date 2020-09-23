@@ -1,0 +1,7 @@
+To get started, simple type in your zipcode, then click on "Your Weather v2.0".
+
+This will bring up a menu, 'Update Now' & 'Auto Update'.
+
+Hope You Enjoy.
+
+-Nathan Snyder
