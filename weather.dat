@@ -1,0 +1,46 @@
+[Report]
+Time=9/6/2000 at 8:51:14 AM
+Area=Conditions as reported at Danville, VA.
+Zip=24541
+[Current]
+Conditions=Mostly Sunny
+Temperature=55
+Wind=From the Northeast at 10 mph
+Humidity=80%
+Barometer=30.34 inches and rising
+Dewpoint=49
+Visibility=10 miles
+Sunrise=6:51 am
+Sunset=7:36 pm
+[Weekday]
+Day1=Today
+Day2=Thu
+Day3=Fri
+Day4=Sat
+Day5=Sun
+Day6=Mon
+Day7=Tue
+[High Temp]
+Day1=73
+Day2=77
+Day3=81
+Day4=84
+Day5=86
+Day6=85
+Day7=86
+[Low Temp]
+Day1=55
+Day2=60
+Day3=59
+Day4=63
+Day5=63
+Day6=62
+Day7=62
+[Weather]
+Day1=Partly Cloudy
+Day2=Partly Cloudy
+Day3=Partly Cloudy
+Day4=Partly Cloudy
+Day5=Partly Cloudy
+Day6=Partly Cloudy
+Day7=Partly Cloudy
